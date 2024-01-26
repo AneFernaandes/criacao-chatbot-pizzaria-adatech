@@ -8,7 +8,6 @@ Um chatbot para a Pizzaria que Delícia, onde o funcionamento da pizzaria é de 
 
 ## Conheça os membros que contribuíram para a análise de acidentes de trânsito em rodovias federais no Brasil:
 - Bruna Dias
-- Camylla Oliveira
 - Eliane Patrício
 - Nayla Andrade
 - Rodrigo Freitas
