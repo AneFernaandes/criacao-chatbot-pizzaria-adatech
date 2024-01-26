@@ -13,3 +13,6 @@ Um chatbot para a Pizzaria que Delícia, onde o funcionamento da pizzaria é de 
 - Rodrigo Freitas
 
 ### Projeto entregue. Próximo passo é fazer algumas melhorias e incluir API Telegram / WhatsApp.
+
+
+### Programa de Bolsas em Análise de Dados - IFOOD
