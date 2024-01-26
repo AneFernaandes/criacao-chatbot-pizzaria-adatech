@@ -1,6 +1,6 @@
-# Projeto de Chatbot para Anotação de Pedidos da Pizzaria Delícia
+# Chatbot para Anotação de Pedidos da Pizzaria Delícia
 
-<img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/chatbot-o-que-e/chatbot-o-que-e-img_header.jpg" width="300" height=300"/>
+<img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/chatbot-o-que-e/chatbot-o-que-e-img_header.jpg" width="100%"/>
 Aplicação de conceitos fundamentais de programação em Python, como variáveis, estruturas condicionais, estruturas de repetição, listas e funções, criando um chatbot simples para anotar pedidos de uma pizzaria.
 
 ## Descrição do Projeto
