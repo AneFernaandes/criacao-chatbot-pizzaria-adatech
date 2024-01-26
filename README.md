@@ -1,7 +1,6 @@
 # Projeto de Chatbot para Anotação de Pedidos da Pizzaria Delícia
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://chatguru.com.br/wp-content/uploads/2021/12/chatbot-g732978d45_1920.jpg)" width="200" height="200" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://chatguru.com.br/wp-content/uploads/2021/12/chatbot-g732978d45_1920.jpg)" width="200" height="200" />
 Aplicação de conceitos fundamentais de programação em Python, como variáveis, estruturas condicionais, estruturas de repetição, listas e funções, criando um chatbot simples para anotar pedidos de uma pizzaria.
 
 ## Descrição do Projeto
